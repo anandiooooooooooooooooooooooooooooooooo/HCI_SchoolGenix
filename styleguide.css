@@ -1,0 +1,29 @@
+:root {
+    --color-1: rgba(209, 190, 176, 1);
+    --background: rgba(255, 255, 255, 1);
+    --color-3: rgba(209, 190, 176, 1);
+    --color-4: rgba(60, 79, 118, 1);
+    --item: rgba(59, 59, 59, 1);
+    --putih: rgba(255, 255, 255, 1);
+    --abu: rgba(223, 223, 223, 1);
+    --violet: rgba(88, 44, 77, 1);
+    --gray-01: rgba(165, 170, 181, 1);
+    --black-01: rgba(18, 18, 18, 1);
+    --white: rgba(255, 255, 255, 1);
+    --blue-01: rgba(18, 148, 242, 1);
+    --green-01: rgba(93, 201, 131, 1);
+    --orange-1: rgba(251, 166, 60, 1);
+    --slate-200: rgba(226, 232, 240, 1);
+    --cards-long-default: 0px 14px 42px 0px rgba(8, 15, 52, 0.06);
+    --variable-collection-section-color: rgba(94, 94, 94, 1);
+    --variable-collection-text1: rgba(0, 0, 0, 1);
+    --variable-collection-form-admin: rgba(211, 211, 211, 1);
+    --variable-collection-background-in-siswa: rgba(37, 79, 26, 1);
+    --variable-collection-background-in-admin: rgba(88, 44, 77, 1);
+    --variable-collection-background-in-guru: rgba(120, 0, 22, 1);
+    --variable-collection-background-in-walisiswa: rgba(74, 92, 124, 1);
+    --variable-collection-background-in-kepsek: rgba(2, 64, 120, 1);
+    --primary-color-gray-100: rgba(32, 32, 32, 1);
+    --primary-color-gray-10: rgba(255, 255, 255, 1);
+  }
+  

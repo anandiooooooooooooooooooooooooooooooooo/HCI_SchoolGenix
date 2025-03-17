@@ -1,0 +1,2038 @@
+.dashboard-siswa {
+    position: relative;
+    width: 1920px;
+    height: 1175px;
+    background-color: var(--variable-collection-background-in-siswa);
+  }
+  
+  .dashboard-siswa .statistic {
+    position: absolute;
+    width: 516px;
+    height: 350px;
+    top: 423px;
+    left: 360px;
+    background-color: var(--white);
+    border-radius: 10px;
+  }
+  
+  .dashboard-siswa .absence {
+    position: absolute;
+    width: 130px;
+    height: 44px;
+    top: 131px;
+    left: 35px;
+  }
+  
+  .dashboard-siswa .overlap-group {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 0;
+    left: 0;
+    background-color: var(--blue-01);
+    border-radius: 22px;
+  }
+  
+  .dashboard-siswa .img {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 7px;
+    left: 7px;
+  }
+  
+  .dashboard-siswa .text-wrapper {
+    position: absolute;
+    top: 10px;
+    left: 58px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--gray-01);
+    font-size: 15px;
+    letter-spacing: 0.30px;
+    line-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .div {
+    top: 31px;
+    position: absolute;
+    left: 58px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--black-01);
+    font-size: 15px;
+    letter-spacing: 0.30px;
+    line-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .tasks-exam {
+    position: absolute;
+    width: 169px;
+    height: 44px;
+    top: 195px;
+    left: 35px;
+  }
+  
+  .dashboard-siswa .overlap {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 0;
+    left: 0;
+    background-color: var(--green-01);
+    border-radius: 22px;
+  }
+  
+  .dashboard-siswa .file-earmark-check {
+    position: absolute;
+    width: 32px;
+    height: 28px;
+    top: 7px;
+    left: 6px;
+  }
+  
+  .dashboard-siswa .text-wrapper-2 {
+    top: 29px;
+    position: absolute;
+    left: 58px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--black-01);
+    font-size: 15px;
+    letter-spacing: 0.30px;
+    line-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .quiz {
+    position: absolute;
+    width: 96px;
+    height: 44px;
+    top: 259px;
+    left: 35px;
+  }
+  
+  .dashboard-siswa .alarm-fill-wrapper {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 0;
+    left: 0;
+    background-color: var(--orange-1);
+    border-radius: 22px;
+  }
+  
+  .dashboard-siswa .group {
+    position: absolute;
+    width: 145px;
+    height: 52px;
+    top: 44px;
+    left: 36px;
+  }
+  
+  .dashboard-siswa .homepage-design {
+    position: absolute;
+    width: 123px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #121212;
+    font-size: 22px;
+    letter-spacing: 0.30px;
+    line-height: 23px;
+  }
+  
+  .dashboard-siswa .title {
+    position: absolute;
+    width: 141px;
+    top: 41px;
+    left: 0;
+    opacity: 0.5;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #121212;
+    font-size: 12px;
+    letter-spacing: 0.30px;
+    line-height: 11px;
+  }
+  
+  .dashboard-siswa .stats {
+    position: absolute;
+    width: 169px;
+    height: 169px;
+    top: 90px;
+    left: 298px;
+  }
+  
+  .dashboard-siswa .overlap-2 {
+    position: relative;
+    width: 173px;
+    height: 169px;
+  }
+  
+  .dashboard-siswa .group-2 {
+    position: absolute;
+    width: 142px;
+    height: 51px;
+    top: 59px;
+    left: 31px;
+  }
+  
+  .dashboard-siswa .homepage-design-2 {
+    width: 138px;
+    top: 39px;
+    left: 0;
+    opacity: 0.5;
+    line-height: 12px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #121212;
+    font-size: 12px;
+    letter-spacing: 0.30px;
+  }
+  
+  .dashboard-siswa .element {
+    position: absolute;
+    width: 75px;
+    top: 0;
+    left: 25px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #32ac72;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .dashboard-siswa .overlap-group-wrapper {
+    position: absolute;
+    width: 169px;
+    height: 169px;
+    top: 0;
+    left: 0;
+  }
+  
+  .dashboard-siswa .overlap-group-2 {
+    position: relative;
+    width: 179px;
+    height: 179px;
+    top: -5px;
+    left: -5px;
+  }
+  
+  .dashboard-siswa .ellipse {
+    position: absolute;
+    width: 175px;
+    height: 175px;
+    top: 2px;
+    left: 2px;
+    border-radius: 87.5px;
+    border: 6px solid;
+    border-color: #ebf2fd;
+  }
+  
+  .dashboard-siswa .ellipse-2 {
+    position: absolute;
+    width: 179px;
+    height: 179px;
+    top: 0;
+    left: 0;
+  }
+  
+  .dashboard-siswa .taskprogress {
+    position: absolute;
+    width: 350px;
+    height: 246px;
+    top: 423px;
+    left: 893px;
+  }
+  
+  .dashboard-siswa .task-progress {
+    width: 352px;
+    height: 246px;
+  }
+  
+  .dashboard-siswa .overlap-3 {
+    position: relative;
+    width: 350px;
+    height: 246px;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  .dashboard-siswa .group-3 {
+    position: absolute;
+    width: 284px;
+    height: 31px;
+    top: 73px;
+    left: 35px;
+  }
+  
+  .dashboard-siswa .homepage-design-3 {
+    width: 147px;
+    top: 0;
+    left: 0;
+    line-height: 21px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #121212;
+    font-size: 12px;
+    letter-spacing: 0.30px;
+  }
+  
+  .dashboard-siswa .homepage-design-4 {
+    width: 32px;
+    top: 0;
+    left: 248px;
+    opacity: 0.5;
+    line-height: 21px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #121212;
+    font-size: 12px;
+    letter-spacing: 0.30px;
+  }
+  
+  .dashboard-siswa .overlap-group-3 {
+    position: absolute;
+    width: 280px;
+    height: 5px;
+    top: 26px;
+    left: 0;
+    border-radius: 200px;
+  }
+  
+  .dashboard-siswa .rectangle {
+    position: absolute;
+    width: 280px;
+    height: 5px;
+    top: 0;
+    left: 0;
+    background-color: #34a770;
+    border-radius: 200px;
+    opacity: 0.1;
+  }
+  
+  .dashboard-siswa .rectangle-2 {
+    position: absolute;
+    width: 149px;
+    height: 5px;
+    top: 0;
+    left: 0;
+    background-color: #46bd84;
+    border-radius: 200px;
+  }
+  
+  .dashboard-siswa .group-4 {
+    position: absolute;
+    width: 284px;
+    height: 31px;
+    top: 128px;
+    left: 35px;
+  }
+  
+  .dashboard-siswa .homepage-design-5 {
+    width: 157px;
+    top: 0;
+    left: 0;
+    line-height: 21px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #121212;
+    font-size: 12px;
+    letter-spacing: 0.30px;
+  }
+  
+  .dashboard-siswa .homepage-design-6 {
+    width: 32px;
+    top: 0;
+    left: 248px;
+    opacity: 0.5;
+    text-align: right;
+    line-height: 21px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #121212;
+    font-size: 12px;
+    letter-spacing: 0.30px;
+  }
+  
+  .dashboard-siswa .rectangle-3 {
+    width: 100px;
+    position: absolute;
+    height: 5px;
+    top: 0;
+    left: 0;
+    background-color: #46bd84;
+    border-radius: 200px;
+  }
+  
+  .dashboard-siswa .group-5 {
+    position: absolute;
+    width: 284px;
+    height: 31px;
+    top: 183px;
+    left: 35px;
+  }
+  
+  .dashboard-siswa .homepage-design-7 {
+    width: 159px;
+    top: 0;
+    left: 0;
+    line-height: 21px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #121212;
+    font-size: 12px;
+    letter-spacing: 0.30px;
+  }
+  
+  .dashboard-siswa .homepage-design-8 {
+    width: 35px;
+    top: 0;
+    left: 245px;
+    opacity: 0.5;
+    text-align: right;
+    line-height: 21px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #121212;
+    font-size: 12px;
+    letter-spacing: 0.30px;
+  }
+  
+  .dashboard-siswa .rectangle-4 {
+    position: absolute;
+    width: 280px;
+    height: 5px;
+    top: 0;
+    left: 0;
+    background-color: #08a0f7;
+    border-radius: 200px;
+    opacity: 0.1;
+  }
+  
+  .dashboard-siswa .rectangle-5 {
+    width: 19px;
+    position: absolute;
+    height: 5px;
+    top: 0;
+    left: 0;
+    background-color: #46bd84;
+    border-radius: 200px;
+  }
+  
+  .dashboard-siswa .samantha {
+    position: absolute;
+    width: 135px;
+    top: 28px;
+    left: 35px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #121212;
+    font-size: 15px;
+    letter-spacing: 0.30px;
+    line-height: 23px;
+  }
+  
+  .dashboard-siswa .navigation-menu {
+    display: flex;
+    flex-direction: column;
+    width: 294px;
+    height: 310px;
+    align-items: center;
+    justify-content: center;
+    gap: 6.78px;
+    padding: 12.71px 17.79px;
+    position: absolute;
+    top: 423px;
+    left: 1260px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: var(--slate-200);
+    box-shadow: 0px 3.39px 5.08px #00000017;
+  }
+  
+  .dashboard-siswa .performance {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12.8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashboard-siswa .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.71px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14.2px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .frame {
+    position: relative;
+    width: 232px;
+    height: 217px;
+    border-radius: 8.54px;
+    overflow: hidden;
+    border: 0.71px solid;
+    border-color: #e5e7e9;
+  }
+  
+  .dashboard-siswa .overlap-group-4 {
+    position: absolute;
+    width: 111px;
+    height: 83px;
+    top: 53px;
+    left: 46px;
+    background-image: url(./img/ellipse-14.svg);
+    background-size: 100% 100%;
+  }
+  
+  .dashboard-siswa .overlap-4 {
+    position: absolute;
+    width: 93px;
+    height: 83px;
+    top: 0;
+    left: 0;
+  }
+  
+  .dashboard-siswa .ellipse-3 {
+    position: absolute;
+    width: 90px;
+    height: 83px;
+    top: 0;
+    left: 0;
+  }
+  
+  .dashboard-siswa .ellipse-4 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 63px;
+    left: 48px;
+  }
+  
+  .dashboard-siswa .vector {
+    position: absolute;
+    width: 2px;
+    height: 5px;
+    top: 14px;
+    left: 43px;
+  }
+  
+  .dashboard-siswa .vector-2 {
+    position: absolute;
+    width: 1px;
+    height: 4px;
+    top: 13px;
+    left: 56px;
+  }
+  
+  .dashboard-siswa .vector-3 {
+    position: absolute;
+    width: 3px;
+    height: 4px;
+    top: 14px;
+    left: 68px;
+  }
+  
+  .dashboard-siswa .vector-4 {
+    position: absolute;
+    width: 3px;
+    height: 4px;
+    top: 20px;
+    left: 80px;
+  }
+  
+  .dashboard-siswa .vector-5 {
+    position: absolute;
+    width: 4px;
+    height: 3px;
+    top: 30px;
+    left: 88px;
+  }
+  
+  .dashboard-siswa .vector-6 {
+    position: absolute;
+    width: 4px;
+    height: 3px;
+    top: 78px;
+    left: 89px;
+  }
+  
+  .dashboard-siswa .vector-7 {
+    position: absolute;
+    width: 4px;
+    height: 3px;
+    top: 78px;
+    left: 20px;
+  }
+  
+  .dashboard-siswa .vector-8 {
+    position: absolute;
+    width: 5px;
+    height: 2px;
+    top: 67px;
+    left: 14px;
+  }
+  
+  .dashboard-siswa .vector-9 {
+    position: absolute;
+    width: 5px;
+    height: 1px;
+    top: 55px;
+    left: 13px;
+  }
+  
+  .dashboard-siswa .vector-10 {
+    position: absolute;
+    width: 5px;
+    height: 2px;
+    top: 42px;
+    left: 15px;
+  }
+  
+  .dashboard-siswa .vector-11 {
+    position: absolute;
+    width: 4px;
+    height: 3px;
+    top: 30px;
+    left: 21px;
+  }
+  
+  .dashboard-siswa .vector-12 {
+    position: absolute;
+    width: 3px;
+    height: 4px;
+    top: 20px;
+    left: 30px;
+  }
+  
+  .dashboard-siswa .polygon {
+    position: absolute;
+    width: 22px;
+    height: 33px;
+    top: 31px;
+    left: 57px;
+  }
+  
+  .dashboard-siswa .vector-13 {
+    position: absolute;
+    width: 5px;
+    height: 3px;
+    top: 42px;
+    left: 94px;
+  }
+  
+  .dashboard-siswa .vector-14 {
+    position: absolute;
+    width: 4px;
+    height: 1px;
+    top: 55px;
+    left: 96px;
+  }
+  
+  .dashboard-siswa .vector-15 {
+    position: absolute;
+    width: 4px;
+    height: 2px;
+    top: 67px;
+    left: 94px;
+  }
+  
+  .dashboard-siswa .frame-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 5.69px;
+    position: absolute;
+    top: 11px;
+    left: 11px;
+  }
+  
+  .dashboard-siswa .rectangle-6 {
+    position: relative;
+    width: 11.38px;
+    height: 11.38px;
+    background-color: #46bd84;
+    border-radius: 2.85px;
+  }
+  
+  .dashboard-siswa .assignment {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.71px;
+    font-family: "Poppins-Black", Helvetica;
+    font-weight: 900;
+    color: #42404c;
+    font-size: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .frame-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 7.11px;
+    padding: 4.98px 8.54px;
+    position: absolute;
+    top: 12px;
+    left: 153px;
+    background-color: #eff1f3;
+    border-radius: 2.85px;
+  }
+  
+  .dashboard-siswa .frame-3 {
+    display: inline-flex;
+    align-items: center;
+    gap: 7.11px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashboard-siswa .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.71px;
+    font-family: "Poppins-Black", Helvetica;
+    font-weight: 900;
+    color: #424252;
+    font-size: 8.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .vector-16 {
+    position: relative;
+    width: 8.18px;
+    height: 4.27px;
+    margin-right: -0.53px;
+  }
+  
+  .dashboard-siswa .frame-4 {
+    display: inline-flex;
+    align-items: center;
+    gap: 4.27px;
+    position: absolute;
+    top: 156px;
+    left: 43px;
+  }
+  
+  .dashboard-siswa .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins-Black", Helvetica;
+    font-weight: 900;
+    color: #83868e;
+    font-size: 12.8px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.71px;
+    font-family: "Poppins-Black", Helvetica;
+    font-weight: 900;
+    color: #000000;
+    font-size: 14.2px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .frame-5 {
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    top: 184px;
+    left: 144px;
+  }
+  
+  .dashboard-siswa .calendar {
+    position: absolute;
+    width: 288px;
+    height: 284px;
+    top: 423px;
+    left: 1571px;
+  }
+  
+  .dashboard-siswa .calendar-2 {
+    position: relative;
+    height: 284px;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  .dashboard-siswa .overlap-5 {
+    position: absolute;
+    width: 257px;
+    height: 36px;
+    top: 52px;
+    left: 18px;
+  }
+  
+  .dashboard-siswa .rectangle-7 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .rectangle-8 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 36px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .rectangle-9 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 72px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .rectangle-10 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 108px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .wed {
+    position: absolute;
+    top: 11px;
+    left: 114px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #aaaaaa;
+    font-size: 10px;
+    letter-spacing: 0.30px;
+    line-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .rectangle-11 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 144px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .rectangle-12 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 180px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .rectangle-13 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 216px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .navbar {
+    position: absolute;
+    width: 250px;
+    height: 12px;
+    top: 12px;
+    left: 7px;
+  }
+  
+  .dashboard-siswa .sun {
+    left: 0;
+    position: absolute;
+    top: 0;
+    font-family: "Poppins-Black", Helvetica;
+    font-weight: 900;
+    color: #aaaaaa;
+    font-size: 10px;
+    letter-spacing: 0.30px;
+    line-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .mon {
+    left: 35px;
+    position: absolute;
+    top: 0;
+    font-family: "Poppins-Black", Helvetica;
+    font-weight: 900;
+    color: #aaaaaa;
+    font-size: 10px;
+    letter-spacing: 0.30px;
+    line-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .tue {
+    left: 73px;
+    position: absolute;
+    top: 0;
+    font-family: "Poppins-Black", Helvetica;
+    font-weight: 900;
+    color: #aaaaaa;
+    font-size: 10px;
+    letter-spacing: 0.30px;
+    line-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .thu {
+    left: 144px;
+    position: absolute;
+    top: 0;
+    font-family: "Poppins-Black", Helvetica;
+    font-weight: 900;
+    color: #aaaaaa;
+    font-size: 10px;
+    letter-spacing: 0.30px;
+    line-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .fri {
+    left: 183px;
+    position: absolute;
+    top: 0;
+    font-family: "Poppins-Black", Helvetica;
+    font-weight: 900;
+    color: #aaaaaa;
+    font-size: 10px;
+    letter-spacing: 0.30px;
+    line-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .sat {
+    left: 217px;
+    position: absolute;
+    top: 0;
+    font-family: "Poppins-Black", Helvetica;
+    font-weight: 900;
+    color: #aaaaaa;
+    font-size: 10px;
+    letter-spacing: 0.30px;
+    line-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .div-wrapper {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 88px;
+    left: 18px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-7 {
+    top: 6px;
+    left: 9px;
+    color: var(--gray-01);
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-6 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 88px;
+    left: 54px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-8 {
+    top: 6px;
+    left: 11px;
+    color: var(--gray-01);
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-7 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 88px;
+    left: 90px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-9 {
+    top: 6px;
+    left: 16px;
+    color: #222222;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-8 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 88px;
+    left: 126px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-10 {
+    top: 6px;
+    left: 14px;
+    color: #222222;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-9 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 88px;
+    left: 162px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-10 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 88px;
+    left: 198px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-11 {
+    top: 6px;
+    left: 13px;
+    color: #222222;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-11 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 88px;
+    left: 234px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-12 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 124px;
+    left: 18px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-12 {
+    top: 6px;
+    left: 14px;
+    color: #ff0000;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-13 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 124px;
+    left: 54px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-14 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 124px;
+    left: 90px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-15 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 124px;
+    left: 126px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-16 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 124px;
+    left: 162px;
+    background-color: var(--blue-01);
+    border-radius: 106px;
+  }
+  
+  .dashboard-siswa .text-wrapper-13 {
+    top: 6px;
+    left: 11px;
+    color: #ffffff;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-17 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 124px;
+    left: 198px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-18 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 124px;
+    left: 234px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-14 {
+    top: 6px;
+    left: 12px;
+    color: #222222;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-19 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 160px;
+    left: 18px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-15 {
+    top: 6px;
+    left: 11px;
+    color: #ff0000;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-20 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 160px;
+    left: 54px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-16 {
+    top: 6px;
+    left: 11px;
+    color: #222222;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-21 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 160px;
+    left: 90px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-22 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 160px;
+    left: 126px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-23 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 160px;
+    left: 162px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-24 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 160px;
+    left: 198px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-25 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 160px;
+    left: 234px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-26 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 196px;
+    left: 18px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-17 {
+    top: 6px;
+    left: 9px;
+    color: #ff0000;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-27 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 196px;
+    left: 54px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-28 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 196px;
+    left: 90px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-18 {
+    top: 6px;
+    left: 10px;
+    color: #222222;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-29 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 196px;
+    left: 126px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-30 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 196px;
+    left: 162px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-19 {
+    top: 6px;
+    left: 9px;
+    color: #222222;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-31 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 196px;
+    left: 198px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-32 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 196px;
+    left: 234px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .overlap-group-5 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 232px;
+    left: 18px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-20 {
+    top: 6px;
+    left: 10px;
+    color: #ff0000;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .overlap-33 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 232px;
+    left: 54px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .rectangle-14 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 232px;
+    left: 162px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .rectangle-15 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 232px;
+    left: 198px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .rectangle-16 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 232px;
+    left: 234px;
+    background-color: #ffffff;
+  }
+  
+  .dashboard-siswa .text-wrapper-21 {
+    position: absolute;
+    top: 22px;
+    left: 95px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #222222;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .text-wrapper-22 {
+    top: 238px;
+    left: 100px;
+    color: #222222;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .text-wrapper-23 {
+    top: 238px;
+    left: 136px;
+    color: #222222;
+    position: absolute;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .left {
+    left: 25px;
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    top: 17px;
+    background-color: var(--white);
+    border-radius: 16.5px;
+    box-shadow: 0px 3px 10px #00000040;
+  }
+  
+  .dashboard-siswa .vector-17 {
+    position: absolute;
+    width: 8px;
+    height: 14px;
+    top: 9px;
+    left: 11px;
+  }
+  
+  .dashboard-siswa .vector-wrapper {
+    left: 227px;
+    transform: rotate(-180deg);
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    top: 17px;
+    background-color: var(--white);
+    border-radius: 16.5px;
+    box-shadow: 0px 3px 10px #00000040;
+  }
+  
+  .dashboard-siswa .vector-18 {
+    position: absolute;
+    width: 8px;
+    height: 14px;
+    top: 9px;
+    left: 11px;
+    transform: rotate(180deg);
+  }
+  
+  .dashboard-siswa .overlap-wrapper {
+    position: absolute;
+    width: 1548px;
+    height: 203px;
+    top: 190px;
+    left: 360px;
+  }
+  
+  .dashboard-siswa .overlap-34 {
+    position: relative;
+    width: 1544px;
+    height: 203px;
+  }
+  
+  .dashboard-siswa .text-wrapper-24 {
+    position: absolute;
+    width: 1398px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 100px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .p {
+    position: absolute;
+    width: 1541px;
+    top: 128px;
+    left: 4px;
+    font-family: "Poppins-Thin", Helvetica;
+    font-weight: 100;
+    color: #ffffff;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .frame-6 {
+    display: flex;
+    flex-direction: column;
+    width: 1500px;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    top: 803px;
+    left: 360px;
+  }
+  
+  .dashboard-siswa .frame-7 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .dashboard-siswa .whats-new {
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .dashboard-siswa .frame-8 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashboard-siswa .btn {
+    display: flex;
+    width: 24px;
+    height: 24px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 6px;
+    position: relative;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .dashboard-siswa .img-2 {
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    flex-grow: 1;
+  }
+  
+  .dashboard-siswa .frame-9 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .dashboard-siswa .card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    background-color: var(--primary-color-gray-10);
+    border-radius: 20px;
+    box-shadow: var(--cards-long-default);
+  }
+  
+  .dashboard-siswa .unsplash {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 113px;
+  }
+  
+  .dashboard-siswa .frontend-wrapper {
+    display: inline-flex;
+    height: 15px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px;
+    position: relative;
+    background-color: #ff000433;
+    border-radius: 8px;
+  }
+  
+  .dashboard-siswa .frontend {
+    position: relative;
+    width: fit-content;
+    margin-top: -10.50px;
+    margin-bottom: -8.50px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .beginner-s-guide-to {
+    position: relative;
+    align-self: stretch;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--primary-color-gray-100);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .progress {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 6px;
+  }
+  
+  .dashboard-siswa .rectangle-wrapper {
+    width: 464px;
+    height: 6px;
+    background-color: #d9d9d9;
+    border-radius: 50px;
+  }
+  
+  .dashboard-siswa .rectangle-17 {
+    width: 237px;
+    height: 6px;
+    background-color: #000000;
+    border-radius: 50px;
+  }
+  
+  .dashboard-siswa .frame-10 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    border-radius: 0px 0px 20px 20px;
+  }
+  
+  .dashboard-siswa .img-3 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .dashboard-siswa .frame-11 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    background-color: var(--primary-color-gray-10);
+  }
+  
+  .dashboard-siswa .prashant-kumar-singh {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--primary-color-gray-100);
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .software-developer {
+    position: relative;
+    align-self: stretch;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--primary-color-gray-100);
+    font-size: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .vuesax-linear-heart-wrapper {
+    display: flex;
+    width: 20px;
+    height: 20px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 6px;
+    position: absolute;
+    top: 22px;
+    left: 446px;
+    background-color: #cccccc80;
+    border-radius: 50px;
+  }
+  
+  .dashboard-siswa .searchbar {
+    position: absolute;
+    width: 1500px;
+    height: 70px;
+    top: 70px;
+    left: 360px;
+    background-color: #d9d9d9;
+    border-radius: 15px;
+  }
+  
+  .dashboard-siswa .group-6 {
+    position: absolute;
+    width: 1266px;
+    height: 40px;
+    top: 15px;
+    left: 32px;
+  }
+  
+  .dashboard-siswa .overlap-group-6 {
+    position: relative;
+    width: 1264px;
+    height: 40px;
+    background-color: #ffffff;
+    border-radius: 30px;
+  }
+  
+  .dashboard-siswa .text-wrapper-25 {
+    position: absolute;
+    width: 123px;
+    height: 23px;
+    top: 8px;
+    left: 46px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .search {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 11px;
+    left: 13px;
+  }
+  
+  .dashboard-siswa .menus {
+    display: inline-flex;
+    align-items: center;
+    gap: 32px;
+    position: absolute;
+    top: 22px;
+    left: 1334px;
+  }
+  
+  .dashboard-siswa .bell {
+    position: relative;
+    width: 25px;
+    height: 25px;
+  }
+  
+  .dashboard-siswa .ellipse-wrapper {
+    position: relative;
+    width: 22px;
+    height: 25px;
+    left: 2px;
+    background-image: url(./img/vector-2.svg);
+    background-size: 100% 100%;
+  }
+  
+  .dashboard-siswa .ellipse-5 {
+    position: relative;
+    width: 7px;
+    height: 7px;
+    top: 3px;
+    left: 14px;
+    background-color: #ff0000;
+    border-radius: 3.5px;
+  }
+  
+  .dashboard-siswa .sidebar {
+    position: fixed;
+    width: 300px;
+    height: 1080px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .dashboard-siswa .frame-12 {
+    display: flex;
+    width: 237px;
+    height: 42px;
+    align-items: center;
+    justify-content: center;
+    padding: 9px 89px;
+    position: absolute;
+    top: 1000px;
+    left: 31px;
+    background-color: #000000;
+    border-radius: 30px;
+  }
+  
+  .dashboard-siswa .text-wrapper-26 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .frame-13 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    position: absolute;
+    top: 480px;
+    left: 0;
+  }
+  
+  .dashboard-siswa .frame-14 {
+    display: flex;
+    width: 235px;
+    height: 47px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 8px 28px;
+    position: relative;
+    background-color: #e7e7e7;
+    border-radius: 50px;
+  }
+  
+  .dashboard-siswa .dashboard {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+  }
+  
+  .dashboard-siswa .text-wrapper-27 {
+    position: relative;
+    width: 112px;
+    height: 30px;
+    margin-top: -0.50px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .group-7 {
+    position: relative;
+    width: 144px;
+    height: 30px;
+  }
+  
+  .dashboard-siswa .text-wrapper-28 {
+    position: absolute;
+    width: 112px;
+    height: 30px;
+    top: 0;
+    left: 30px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .classes {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 5px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .dashboard-siswa .calendar-week {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 6px;
+    left: 0;
+  }
+  
+  .dashboard-siswa .profile {
+    position: absolute;
+    width: 220px;
+    height: 277px;
+    top: 48px;
+    left: 42px;
+  }
+  
+  .dashboard-siswa .text-wrapper-29 {
+    position: absolute;
+    height: 24px;
+    top: 253px;
+    left: 56px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .text-wrapper-30 {
+    position: absolute;
+    height: 30px;
+    top: 223px;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashboard-siswa .ellipse-6 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 0;
+    left: 8px;
+    object-fit: cover;
+  }
+  
