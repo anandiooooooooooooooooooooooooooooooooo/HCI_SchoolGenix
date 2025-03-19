@@ -273,7 +273,7 @@ body {
 .date-card{
   background-color: #ebeaea;
   border-radius: 10px;
-  padding: 20px;
+  /* padding: 20px; */
 }
 
 .main-page {
