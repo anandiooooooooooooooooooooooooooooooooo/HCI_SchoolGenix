@@ -1,0 +1,375 @@
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+≠≠
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  position: fixed;
+  background: #254F1A;
+}
+
+.sidebar {
+  /* border: 4px solid red; */
+  background: #ffffff;
+  color: rgb(0, 0, 0);
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 15vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.profile {
+  /* border: 4px solid rgb(0, 255, 26); */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  width: 15vw;
+}
+
+.sidebar-menu {
+  /* border: 4px solid rgb(0, 255, 26); */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex-grow: 1;
+  justify-content: center;
+
+}
+
+.sidebar a {
+  border: 4px solid rgb(255, 247, 0);
+  background: #ebeaea;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  padding: 0.5vw 3vw;
+  border-radius: 50px;
+  font-size: 1vw;
+}
+
+.sidebar a:hover {
+  background: #7d7d7d;
+}
+
+.logout a{
+  width: 13vw;
+}
+
+.content{
+  /* border: 4px solid rgb(0, 255, 26); */
+  display: flex;  
+  width: 85vw;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  padding: 20px;
+  margin-left: 15vw;
+  gap: 1vw;
+}
+
+.searchbar{
+  display: flex;
+  width: 75vw;
+  justify-content: center;
+  background-color: #7d7d7d;
+  align-items: center;
+  padding: 0.3vw 0;
+  border-radius: 10px;
+  gap: 5vw;
+}
+
+
+
+#search {
+  width: 50vw;
+  border-radius: 5px;
+}
+
+.section1{
+  display: grid;
+  
+  grid-template-columns: auto auto auto auto;
+  /* flex-direction: row; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* padding: 20px; */
+  width: 75vw;
+  column-gap: 1vw;
+  gap: 2vh;
+}
+.section2{
+  display: grid;
+  
+  grid-template-columns: auto auto auto;
+  /* flex-direction: row; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* padding: 20px; */
+  width: 75vw;
+  column-gap: 1vw;
+  gap: 2vh;
+}
+
+.text-2{
+  /* border: 2px solid red; */
+  display: flex;
+  align-content: flex-start;
+  flex-direction: column;
+  padding: 1vw 0;
+}
+
+.main-text{
+  /* border: 2px solid red; */
+  display: flex;
+  align-content: flex-start;
+  flex-direction: column;
+  padding: 1vw 0;
+
+}
+
+.section1{
+  margin: 20
+}
+
+.statistics-card{
+  border: 2px solid blue;
+  padding: 50px 20px;
+}
+
+.task-progress-card{
+  border: 2px solid green;
+}
+
+.performance-card{
+  border: 2px solid yellow;
+}
+
+.date-card{
+  border: 2px solid purple;
+}
+
+
+.statistics-card,
+.task-progress-card,
+.performance-card,
+.date-card{
+  background-color: #ebeaea;
+  border-radius: 10px;
+}
+
+.main-page {
+  display: flex;
+
+}
+
+.main-text-container {
+  display: flex;
+  width: 85vw;
+  padding-left: 5vw;
+  color: white;
+}
+.main-text-container-2 {
+  display: flex;
+  width: 75vw;
+  
+  color: white;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  gap: 0.5vw;
+}
+
+.icon {
+  display: flex;
+  justify-content: space-between;
+  width: 10vw;
+}
+
+.profile>img {
+  width: 13vw;
+}
+
+.sidebar h3,
+.sidebar h2 {
+  font-size: 1.2vw;
+}
+
+.searchBox {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:  translate(-50%,50%);
+  background: #2f3640;
+  height: 40px;
+  border-radius: 40px;
+  padding: 10px;
+
+}
+
+.searchBox:hover > .searchInput {
+  width: 240px;
+  padding: 0 6px;
+}
+
+.searchBox:hover > .searchButton {
+background: white;
+color : #2f3640;
+}
+
+.searchButton {
+  color: white;
+  float: right;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #2f3640;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.4s;
+}
+
+.searchInput {
+  border:none;
+  background: none;
+  outline:none;
+  float:left;
+  padding: 0;
+  color: white;
+  font-size: 16px;
+  transition: 0.4s;
+  line-height: 40px;
+  width: 0px;
+
+}
+
+.navigation>img {
+  width: 1.5vw;
+}
