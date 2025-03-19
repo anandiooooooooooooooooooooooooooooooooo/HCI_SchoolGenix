@@ -12,10 +12,9 @@
 <body>
     <!-- Sidebar -->
     <div class="main-page">
-
         <div class="sidebar">
             <div class="profile">
-                <img src="./img/profile.png" alt="profile-picture" width="200px">
+                <img src="./img/profile.png" alt="profile-picture">
                 <h2 class="poppins-bold">Anandhio Varistama</h2>
                 <h3 class="poppins-regular">Student</h3>
             </div>
@@ -26,11 +25,11 @@
                 <a href="#">Schedule</a>
                 <a href="#">AI Assistant</a>
             </div>
-            
             <div class="logout">
                 <a href="#">Log Out</a>
             </div>
         </div>
+
         
         <!-- Content -->
         <div class="content">
@@ -38,7 +37,8 @@
             <!-- Searchbar -->
             <div class="searchbar">
                 <div class="search">
-                    <input type="text" id="search" placeholder="Search...">
+                    <input inputmode="search" id="search" placeholder="Search...">
+                    <button type="submit">Submit</button>
                 </div>
     
                 <div class="right-icon">
@@ -51,9 +51,12 @@
             </div>
             
             <!-- MainText (Hello, [student_surname]!) -->
-            <div class="main-text">
-                <h1 class="poppins-bold">Hello, Anandhio!</h1>
-                <p class="poppins-regular">Lets learn something new today!</p>
+            <div class="main-text-container">
+                
+                <div class="main-text">
+                    <h1 class="poppins-bold">Hello, Anandhio!</h1>
+                    <p class="poppins-regular">Lets learn something new today!</p>
+                </div>
             </div>
             
             <section class="section1">
@@ -63,27 +66,51 @@
                     <p>January - June 2025</p>
                 </div>
             
-        
                 <!-- Task Progress -->
                 <div class="task-progress-card">
                     <h2>Task Progress</h2>
                 </div>
                 
-        
                 <!-- Performance -->
                 <div class="performance-card">
                     <h2>Performance</h2>
                 </div>
             
-        
                 <!-- Schedule/Calendar -->
                 <div class="date-card">
                     <h2>Today's Date</h2>
                 </div>
             </section>
-        </div>
-    
 
+        <div class="main-text-container-2">
+            <div class="text-2">
+                <p class="poppins-regular">Whats New</p>
+            </div>
+
+            <div class="navigation">
+                <img src="./img/btn.png" alt="aa">
+                <img src="./img/btn-1.png" alt="aa">
+            </div>
+        </div>
+
+            <section class="section2">
+                <!-- Statistics -->
+                <div class="statistics-card">
+                    <h2>Statistics</h2>
+                    <p>January - June 2025</p>
+                </div>
+            
+                <!-- Task Progress -->
+                <div class="task-progress-card">
+                    <h2>Task Progress</h2>
+                </div>
+                
+                <!-- Performance -->
+                <div class="performance-card">
+                    <h2>Performance</h2>
+                </div>
+            </section>
+        </div>
     </div>
     </body>
 </html>
