@@ -145,6 +145,7 @@
     flex-direction: column;
     gap: 1vh;
   }
+  
   a {
     text-decoration: none;
     color: black;
