@@ -112,6 +112,8 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
   }
+
+  
   
   .main {
     display: flex;
@@ -143,19 +145,45 @@
     /* height: 50vh; */
     display: flex;
     flex-direction: column;
-    gap: 1vh;
+    gap: 3vh;
   }
-  
+
   a {
     text-decoration: none;
     color: black;
   }
   #text {
-    border-radius: 0.2vw;
-    background-color: rgb(196, 196, 196);
+    border-radius: 0.3vw;
+    background-color: rgb(228, 227, 227);
     border-style: none;
+    height: 4vh;
+    width: 40vw;
   } 
+  .input_text {
+    align-self: flex-start;
+    margin-bottom: 0.2vw;
+    margin-top: 1vw;
+  }
+
+  #input::placeholder {
+    align-items: end;
+    color: black;
+    text-align: left;
+    margin-left: 100px;
+  }
+  input {
+    text-align: left;
+  }
   .check {
     display: flex;
     gap: 0.3vw;
+    left: 10px;
+    width: 40vw;
+  }
+  .login {
+    padding: 1vh 5vw;
+    border-radius: 0.6vw;
+    border-style: none;
+    background-color: rgb(228, 227, 227);
+    font-size: 1vw;
   }
